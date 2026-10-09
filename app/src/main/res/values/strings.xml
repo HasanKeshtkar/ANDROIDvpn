@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VPN Manager</string>
+    <string name="vpn_service_title">VPN Routing Service</string>
+    <string name="vpn_service_running">Multi-tunnel routing is active</string>
+    <string name="action_disconnect">Disconnect</string>
+    <string name="action_connect">Connect</string>
+</resources>
